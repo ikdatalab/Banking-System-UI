@@ -21,4 +21,4 @@ A modular Python web application built using **Streamlit** that simulates core b
 ```text
 ├── mybank.py          # Core banking logic & error handling functions
 ├── app.py             # Streamlit user interface & state management
-└── README.md          # Project documentation
+└── How to run code         # import (mybank.py & app.py) in VS CODE then open terminal type this command (streamlit run app.py)
